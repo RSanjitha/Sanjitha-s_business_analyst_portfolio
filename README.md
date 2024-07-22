@@ -11,5 +11,5 @@
 
 Developed a comprehensive HR dashboard where status of employees were analysed based on variety of metrics including Gender, pay, education qualification, performance rating using **Tableau**. This data-driven approach led to better characterization of the underlying performance metrics of employees based on a variety of factors. The proposed method provides a fully automated and flexible approach to analysing key components of employee data.
 
-
+![HR_Dashboard](https://github.com/RSanjitha/Sanjitha-s_business_analyst_portfolio/blob/main/HR%20Dashboard.png?raw=true)
 
